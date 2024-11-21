@@ -1,0 +1,7 @@
+com_2310976_controller\GastoController.class
+com_2310976_repository\GastoRepository.class
+com_2310976_service\GastoService.class
+com_2310976_model\Gasto$Builder.class
+com_2310976_model\Gasto.class
+com_2310976_view\GastoUI.class
+main\Main.class
